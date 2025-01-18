@@ -1,9 +1,9 @@
 Set up and organize a complex fruit image dataset.
 Use transfer learning with the VGG16 model.
-Fine-tune a pre-trained model for your dataset.
+Fine-tune a pre-trained model for my dataset.
 Evaluate and interpret the model’s performance on unseen data.
 
-You need to perform the following tasks to complete the project after preparing the data:
+I need to perform the following tasks to complete the project after preparing the data:
 
 Task 1: Print the version of TensorFlow
 Task 2: Create a test generator using the test_datagen object
